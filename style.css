@@ -100,3 +100,7 @@ button:focus-visible {
   display: flex;
   flex-direction: column;
 }
+.Titulo {
+  display: flex;
+  justify-content: flex-start;
+}
