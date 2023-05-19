@@ -98,4 +98,5 @@ button:focus-visible {
 
 .FLEX {
   display: flex;
+  flex-direction: column;
 }
